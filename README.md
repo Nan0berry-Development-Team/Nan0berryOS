@@ -1,12 +1,13 @@
 # Nan0berryOS
 --------------------------------------------------------------------------------------------------------------------------------------------
-A lightweight, custom Real-Time Operating System (RTOS) kernel designed for Raspberry Pi Pico & RP2040 microcontrollers.
+--- A lightweight, custom Real-Time Operating System (RTOS) kernel designed for Raspberry Pi Pico & RP2040 microcontrollers.
 --------------------------------------------------------------------------------------------------------------------------------------------
-ACTIVE SUPPORT: RASPBERRY PI PICO RP 2040
---------------------------------------------------------------------------------------------------------------------------------------------LASTEST RELEASE: [Nan0berryOS_Stable_v1.1.zip](https://github.com/user-attachments/files/30910737/Nan0berryOS_Stable_v1.1.zip)
+--- ACTIVE SUPPORT: RASPBERRY PI PICO RP 2040
 --------------------------------------------------------------------------------------------------------------------------------------------
-DEV AND FOUNDER: GABRIEL ORNELLAS TOURINHO PEREIRA
+--- LASTEST RELEASE: [Nan0berryOS_Stable_v1.1.zip](https://github.com/user-attachments/files/30910737/Nan0berryOS_Stable_v1.1.zip)
 --------------------------------------------------------------------------------------------------------------------------------------------
-OPEN-SOURCE
+--- DEV AND FOUNDER: GABRIEL ORNELLAS TOURINHO PEREIRA
+--------------------------------------------------------------------------------------------------------------------------------------------
+--- OPEN-SOURCE
 --------------------------------------------------------------------------------------------------------------------------------------------
 <img width="500" height="500" alt="converted_image" src="https://github.com/user-attachments/assets/f76ad9a8-66f5-466d-aac1-23dfb5bd6e5a" />
