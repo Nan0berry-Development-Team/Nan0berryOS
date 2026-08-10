@@ -1,3 +1,4 @@
+<img width="844" height="486" alt="Gemini_Generated_Image_j98wxmj98wxmj98w (1)" src="https://github.com/user-attachments/assets/98d0357e-32fd-4ac3-b86c-117dd1d129ca" />
 # Nan0berryOS
 
 Nan0berryOS is a lightweight, custom real-time operating system kernel designed for the Raspberry Pi Pico (RP2040) and ARM Cortex-M0+ embedded platform. It provides a minimal preemptive multitasking runtime, a custom scheduler, and low-overhead context switching for bare-metal Pico applications.
