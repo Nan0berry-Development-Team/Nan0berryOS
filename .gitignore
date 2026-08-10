@@ -1,0 +1,34 @@
+# Build and generated files
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+Makefile
+*.ninja*
+*.obj
+*.o
+*.elf
+*.bin
+*.hex
+*.dis
+
+# Pico SDK / toolchain artifacts
+.pico-sdk/
+.pico*
+
+# Editor and OS files
+.vscode/
+*.user
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Keep releases and packaged binaries
+!releases/
+releases/*.log
+
+# Ignore temporary files
+*.tmp
+*~
