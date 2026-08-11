@@ -56,7 +56,7 @@ After building, copy the generated `.uf2` file to your Pico while holding the BO
 
 1. Press and hold the BOOTSEL button on the Pico.
 2. Connect the Pico to your PC via USB.
-3. Copy `releases/Nan0berryOS_v0.1.uf2` to the Pico mass storage device.
+3. Copy `releases/Nan0berryOS.uf2` to the Pico mass storage device.
 
 ## License
 
