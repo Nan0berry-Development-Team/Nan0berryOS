@@ -40,3 +40,34 @@
    ```bash
    git clone [https://github.com/Nan0berry-Development-Team/Nan0berryOS.git](https://github.com/Nan0berry-Development-Team/Nan0berryOS.git)
    cd Nan0berryOS
+Set up your local Pico SDK environment variables as required by your toolchain.
+
+🛠️ Building from Source
+Configure the build directory using Ninja:
+
+Bash
+cmake -G Ninja -S . -B build
+Compile the project:
+
+Bash
+cmake --build build
+⚡ Flashing
+After building, you can flash the compiled binary directly to your Raspberry Pi Pico:
+
+Press and hold the BOOTSEL button on your Pico.
+
+Connect the Pico to your PC via USB.
+
+Drag and drop the generated binary (releases/Nan0berryOS.uf2 or from your build/ folder) directly onto the Pico mass storage drive.
+
+🗺️ Roadmap & Future Updates
+[ ] Expand task sleep and advanced blocking primitives (nano_delay_ms enhancements)
+
+[ ] Implement inter-task messaging and queues
+
+[ ] Add dynamic priority boosting mechanisms
+
+[ ] Support extended hardware peripherals and additional board variants
+
+📜 License
+This project is released under the MIT License. See the LICENSE file for details.
